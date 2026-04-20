@@ -1,0 +1,30 @@
+PS C:\Users\meghi\OneDrive\Documents> "C:\Users\meghi\OneDrive\Documents\DS -PROJECT\EMI PREDICT AI\app.py"
+C:\Users\meghi\OneDrive\Documents\DS -PROJECT\EMI PREDICT AI\app.py
+PS C:\Users\meghi\OneDrive\Documents> cd "C:\Users\meghi\OneDrive\Documents\DS -PROJECT\EMI PREDICT AI"
+>> dir
+
+
+    Directory: C:\Users\meghi\OneDrive\Documents\DS -PROJECT\EMI PREDICT AI
+
+
+Mode                 LastWriteTime         Length Name                                                                                                           
+----                 -------------         ------ ----                                                                                                           
+dar--l        20-04-2026     19:44                mlruns                                                                                                         
+-a---l        20-04-2026     20:06           8758 app.py                                                                                                         
+-a---l        20-04-2026     19:17        2096195 EMIPredict AI - Intelligent Financial Risk Assessment Platform.docx                                            
+-a---l        13-04-2026     05:29       61001582 EMI_dataset.csv                                                                                                
+-a---l        20-04-2026     13:57         310924 EMI_PREDICT_AI.ipynb                                                                                           
+-a---l        20-04-2026     19:49            840 feature_columns.pkl                                                                                            
+-a---l        20-04-2026     19:49            511 label_encoder.pkl                                                                                              
+-a---l        20-04-2026     18:45             55 requirements.txt                                                                                               
+-a---l        20-04-2026     19:49           1855 scaler.pkl                                                                                                     
+-a---l        20-04-2026     19:49         467847 xgb_classifier.pkl                                                                                             
+-a---l        20-04-2026     19:49         448538 xgb_regressor.pkl                                                                                              
+
+
+PS C:\Users\meghi\OneDrive\Documents\DS -PROJECT\EMI PREDICT AI> streamlit run app.py
+
+  You can now view your Streamlit app in your browser.
+
+  Local URL: http://localhost:8501
+  Network URL: http://192.168.1.34:8501
